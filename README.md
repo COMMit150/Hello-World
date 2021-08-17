@@ -1,2 +1,4 @@
 # Hello-World
-Firs repository
+First repository
+
+learning github
